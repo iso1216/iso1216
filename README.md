@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isoedmm
-- 👀 I’m interested in ...  youtube
+- 👀 I’m interested in ...  
 - 🌱 I’m currently learning ... C,C#,HTML,CSS,Python,SQL,CCNA,JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  taishi2002i@gmail.com
