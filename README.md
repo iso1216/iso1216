@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iso1216
 - 👀 I’m interested in ...  
-- 🌱 I’m currently learning ... C,C#,HTML/CSS,Python,SQL,JAVA,PHP,JS,linux
+- 🌱 I’m currently learning ... C,C#,HTML/CSS,Python,SQL,Java,PHP,JS,linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  taishi2002i@gmail.com
 
