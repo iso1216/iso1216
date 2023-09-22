@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... C,C#,HTML/CSS,Python,SQL,Java,PHP,JS,linux,React,laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  taishi2002i@gmail.com
+- 📄 portfolio ...  [https](https://iso1216.github.io/portfolio/)
 
 <!---
 isoedmm/isoedmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
